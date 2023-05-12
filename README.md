@@ -1,4 +1,4 @@
-# Wipro
+# Wipro TalentNext
 
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 <!-- [![GitHub forks](https://img.shields.io/github/forks/pradipthapa7374/wipro?style=social)](https://github.com/pradipthapa7374/wipro/network/members)
